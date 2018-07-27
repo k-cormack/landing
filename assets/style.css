@@ -1,0 +1,43 @@
+.header {
+    font-family: sans-serif;
+    color: blue;
+    font-size: 20.25px;    
+    width: 100%;
+    background-color: red;
+    padding: 40px;
+}
+.flex-center {
+    justify-content: center;
+}
+.placeholder-art {
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+}
+.label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    color: chartreuse;    
+}
+.footer_col {
+    float: left;
+    width: 48%;
+    margin-right: 2%;
+}
+.footer {
+    font-family: sans-serif;
+    color: blue;
+    font-size: 20.25px;    
+    width: 100%;
+    background:cornflowerblue;
+    padding: 15vh;
+}
+.nav {
+    justify-content: space-around;
+}
+.logo {
+    width: 30px;
+    height: auto;
+}
